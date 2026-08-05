@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**hcdev0127/hcdev0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://wakatime.com/@ee9522b5-0349-42e2-9f26-a32d4c5eb5f2"><img src="https://wakatime.com/badge/user/ee9522b5-0349-42e2-9f26-a32d4c5eb5f2.svg" alt="Total time coded since Jun 28 2023" /></a>
 
-Here are some ideas to get you started:
+<a href="https://daily.dev/heracles2756"><img src="https://api.daily.dev/devcards/v2/iYIZwiJAMuCGXY2OiXW0x.png?type=default&r=q6t" width="356" alt="heracles 2756's Dev Card"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</div>
+
+<div align="center">
