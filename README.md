@@ -6,6 +6,15 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://teams.live.com/l/community/FBAO8WaA5WyNv927w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="itshesa" height="30" width="40" /></a>
+<a href="https://discord.gg/sYKCFvuFe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sYKCFvuFe" height="30" width="40" /></a>
+<a href="mailto:heracles2756@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="itshesa" height="30" width="40" /></a>
+</p>
+
+---
+
 <a href="https://daily.dev/heracles2756"><img src="https://api.daily.dev/devcards/v2/iYIZwiJAMuCGXY2OiXW0x.png?type=default&r=q6t" width="356" alt="heracles 2756's Dev Card"/></a>
 
 ---
