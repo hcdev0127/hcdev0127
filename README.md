@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <a href="https://wakatime.com/@ee9522b5-0349-42e2-9f26-a32d4c5eb5f2"><img src="https://wakatime.com/badge/user/ee9522b5-0349-42e2-9f26-a32d4c5eb5f2.svg" alt="Total time coded since Jun 28 2023" /></a>
-
 <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37407"></a>
+[![CodeTree](https://code-tree.dev/hcdev0127-821/badge.svg)](https://code-tree.dev/hcdev0127-821?utm_source=github&utm_medium=readme_badge)
 
 ---
 
